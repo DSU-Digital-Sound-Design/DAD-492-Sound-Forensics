@@ -2,8 +2,23 @@
 title: Schedule
 enableToc: false
 ---
+<style>
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
 
-<table>
+tr {
+    border-bottom: 1px solid #ccc;
+}
+
+th {
+    text-align: left;    
+}
+
+}
+    </style>
+<table >
   <tr>
    <td>Week
    </td>
