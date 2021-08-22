@@ -19,10 +19,14 @@ Dakota State University
 Fall 2021
 
 
-###  **Last date to Drop and receive 100% refund:** September 2<sup>nd</sup>, 2021
+###  **Last date to Drop and receive 100% refund:** 
+
+September 2<sup>nd</sup>, 2021
 
 
-### **Last date to Withdraw and earn a grade of 'W':** November 5<sup>th</sup>, 2021
+### **Last date to Withdraw and earn a grade of 'W':** 
+
+November 5<sup>th</sup>, 2021
 
 
 ## **Course Meeting Time and Location:**
@@ -75,8 +79,7 @@ Principles of Forensic Audio Analysis by Robert C. Maher
 
 ## **Student Support:**
 
-### 
-**DSU Knowledge Base:**
+### **DSU Knowledge Base:**
 
 
 The DSU Knowledge Base contains links and resources to help students by providing information about the following topics: User Accounts & Passwords, Academic Tools & Resources, Software & Apps Support, WiFi & Network Access, Campus Emergency Alert System, Campus Printing, IT Security & Safe Computing, and the Support Desk (which is there to help both on and off-campus students). The Knowledge Base can be accessed through the link below:
@@ -99,7 +102,7 @@ This is a Discussion/Recitation course.  Topics are explored in this course thro
 
 ### **Attendance and Make-up Policy:**
 
-Students are expected to attend all scheduled classes. After **three **absences, 10 points will be deducted from the attendance grade for each additional absence. 
+Students are expected to attend all scheduled classes. After **three** absences, 10 points will be deducted from the attendance grade for each additional absence. 
 
 Late work will only be accepted with a documented excuse. Students may redo work they received an undesirable grade on once, but only if they turned in something by the original due date. The deadline for redoing work is a week after the original due date. After this time, no late work will be accepted.  
 
