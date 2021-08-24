@@ -32,9 +32,24 @@ th {
    </td>
    <td>8/24, 8/26
    </td>
-   <td>Introduction to digital audio forensics
-<p>
-Homework: Listen to the Sound Matters Audio Forensics podcast episode and give a 500-word response.
+   <td>
+   
+   **Tuesday 8/24:**
+
+   * Me - [Dr. Carson](https://tatecarson.com)
+   * Class introductions 
+      * Name? Class year? Where are you from? Any idea what forensic audio is?
+   * [Syllabus](pages/syllabus.md)
+   * [Perusall](https://perusall.com/) signup
+        * I will assign readings, videos, or podcasts through Perusall. You will highlight interesting or confusing parts of the material and ask questions. These assignments will be part of your participation grade.  
+        * Course code - **CARSON-8FNR9**
+        * Do the syllabus highlighting by next class.   
+   <!-- * [Resources](pages/resources.md) -->
+   <!-- * [Intro to forensics](pages/lectures/week-1/intro-to-music-tech-slides)    -->
+
+   Introduction to digital audio forensics
+<p> 
+Homework: Listen to the Sound Matters Audio Forensics podcast episode and post at least three questions or comments in Perusall.
    </td>
   </tr>
   <tr>

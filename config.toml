@@ -1,4 +1,4 @@
-baseURL = "https://dsu-digital-sound-design.github.io/DAD-492-Sound-Forensics/"
+baseURL = "/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
