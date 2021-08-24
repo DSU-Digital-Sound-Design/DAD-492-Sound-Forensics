@@ -95,7 +95,7 @@ The D2L Support for Students site is designed to provide DSU students a D2L supp
 
 ## **Course Delivery and Instructional Methods:**
 
-This is a Discussion/Recitation course.  Topics are explored in this course through short lectures, class discussion, instructor guided activities_,_ individual student projects, and collaborative work. Students must come prepared to discuss the assigned material, which could be a reading, podcast, or YouTube video. 
+This is a Discussion/Recitation course.  Topics are explored in this course through short lectures, class discussion, instructor guided activities, individual student projects, and collaborative work. Students must come prepared to discuss the assigned material, which could be a reading, podcast, or YouTube video. 
 
 
 ## **Classroom Policies:**
