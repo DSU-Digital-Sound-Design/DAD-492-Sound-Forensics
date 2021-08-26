@@ -69,7 +69,8 @@ th {
      * What was the frontier of audio forensics that Dr. Maher mentioned towards the end of the podcast?
      * Deep fakes? 
    * Introduction to digital audio  - Authenticity, Enhancement,
-and Interpretation
+and Interpretation - [slides](pages/lectures/week-1/introduction-to-forensic-audio/)
+   * Lab: Introduction to Adobe Audition. Download a soundfile from freesound.org and open it in Audition. Use the marquee selection tool to emphasize and de-emphasize parts of the sound. 
 
    </td>
   </tr>
