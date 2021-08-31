@@ -21,7 +21,7 @@ The history of audio forensics is a history of audio technology.
 
 ---
 
-### Edouard-Léon Scott de Martinville's Phonautograph
+### Edouard-Léon Scott de Martinville's Phonautograph - 1860
 
 ![](phonautograph.jpg)
 
@@ -44,7 +44,7 @@ But actually the first capture of sound is documented as the 10-second recording
 
 ---
 
-### Edison's phonograph
+### Edison's phonograph - 1877
 
 ![](edison.jpg)
 
@@ -60,3 +60,49 @@ Photos of a replica 1877 cylinder tinfoil phonograph: Invented by Thomas Edison 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wRTgl0qx6wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Graphophone - 1886 - Bell
+
+![](Graphophone1901.jpg)
+
+{{% note %}}
+Improving on the work of edison  Bell picked up on the work of his rival and swapped the stylus for a chisel-shaped cutter to leave deeper, and thus cleaner grooves. This resulted in a more intelligible sound with lower background noise. He named his device the ‘Graphophone’ in his 1886 patent (Newville, 1959).
+
+{{%/ note %}}
+
+---
+
+## Gramophone - 1898 - Edison 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d8UE4R_5o9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+Edison didn't want to work with Bell, so he decided to create his own cylinder phonograph. This time he decided to use electric motor- driven disks instead of the hand-cranked rotating cylinder he had used previously for movement of the paraffin-coated material and he named his new 1898 device the ‘Gramophone’ (Collins and Gitelman, 2002).
+
+
+{{%/ note %}}
+
+---
+
+## Valdemar Poulsen - 1900
+
+![](poulsen.jpg)
+
+{{% note %}}
+ described the separation of the carrier from the memory coating in a flat information medium in a 1900 patent, an observation which went on to form the basis of magnetic tape (Poulsen, 1900). He also recognised that the signal captured on a tape does not correspond to the recording current but is distorted, and in 1907 he proposed the addition of a DC current to the signal, a technique known as ‘biasing.’ 
+
+{{%/ note %}}
+
+---
+
+## E.C. Wente - Bell Telephone Labs
+
+<img src="wente.jpg" width="50%">
+
+
+{{% note %}}
+E.C. Wente, of Bell Telephone Labs, published a research article (Wente, 1917) describing a uniforming sensitive instrument for the ‘absolute measurement of sound intensity,’ named ‘the condenser microphone.’ Although initially designed for long-line telephone transmission during the USA’s development of a transcontinental telephone service, its remarkable acoustic performance lent it to the recording process (Mayfield and Harrison, 1926).
+
+{{%/ note %}}
