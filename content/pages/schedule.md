@@ -70,12 +70,11 @@ th {
    * Adobe Audition Lab:
       * [Learn how to make selections using the Time Selection, Marquee Selection, and Lasso Selection tools in Audition to edit audio precisely and add effects. ](https://helpx.adobe.com/audition/how-to/audition-make-selections-editing-cc.html?playlist=/services/playlist.helpx/products:SG_AUDITION_1_1/learn-path:get-started/set-header:ccx-designer/playlist:basictraining/en_us.json)
       * [Remove beeps, hisses, and other noise by visually editing waveforms with Spectral Frequency Display in Adobe Audition.](https://helpx.adobe.com/audition/how-to/audition-spectral-frequency-display-cc.html?playlist=/services/playlist.helpx/products:SG_AUDITION_1_1/learn-path:get-started/set-header:ccx-designer/playlist:basictraining/en_us.json)
-      * Download [this soundfile](https://freesound.org/people/arnaud%20coutancier/sounds/436032/) and remove the first three bells with the marquee selection tool. Post your resulting audio file and a screenshot of the spectrogram to d2l. 
-
-
+      * Download [this sound file](https://freesound.org/people/arnaud%20coutancier/sounds/436032/) and remove the first three bells with the marquee selection tool. Post your resulting audio file and a screenshot of the spectrogram to d2l. 
 
    **Thursday 9/2**
 
+   * Audio forensics beginnings 
    * Notable Cases of Audio Forensics
 
    </td>
