@@ -66,7 +66,7 @@ th {
 
    **Tuesday 8/31**
 
-   * [slides](pages/lectures/week-2/history-of-audio-forensics/)
+   * [slides](pages/lectures/week-2/history-of-audio-forensics/) - [PDF](pages/lectures/week-2/history-of-audio-forensics/forensic-audio.pdf)
    * Adobe Audition Lab:
       * [Learn how to make selections using the Time Selection, Marquee Selection, and Lasso Selection tools in Audition to edit audio precisely and add effects. ](https://helpx.adobe.com/audition/how-to/audition-make-selections-editing-cc.html?playlist=/services/playlist.helpx/products:SG_AUDITION_1_1/learn-path:get-started/set-header:ccx-designer/playlist:basictraining/en_us.json)
       * [Remove beeps, hisses, and other noise by visually editing waveforms with Spectral Frequency Display in Adobe Audition.](https://helpx.adobe.com/audition/how-to/audition-spectral-frequency-display-cc.html?playlist=/services/playlist.helpx/products:SG_AUDITION_1_1/learn-path:get-started/set-header:ccx-designer/playlist:basictraining/en_us.json)

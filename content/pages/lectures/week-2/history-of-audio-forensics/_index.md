@@ -3,7 +3,7 @@ title = "Forensic Audio"
 outputs = ["Reveal"]
 [reveal_hugo]
 theme = "solarized"
-# show_notes = "separate-page"
+show_notes = "separate-page"
 +++
 
 # History of Audio Forensics
