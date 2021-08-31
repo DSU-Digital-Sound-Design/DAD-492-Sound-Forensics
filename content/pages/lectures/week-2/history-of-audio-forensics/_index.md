@@ -3,13 +3,14 @@ title = "Forensic Audio"
 outputs = ["Reveal"]
 [reveal_hugo]
 theme = "solarized"
+# show_notes = "separate-page"
 +++
 
 # History of Audio Forensics
 
 ---
 
-# Technological develoments
+# Technological developments
 
 ## The analogue years
 
@@ -46,7 +47,7 @@ But actually the first capture of sound is documented as the 10-second recording
 
 ### Edison's phonograph - 1877
 
-![](edison.jpg)
+<img src="edison.jpg" width="40%">
 
 [Listen](https://archive.org/search.php?query=creator%3A%22Thomas+Alva+Edison%22) to some of the recordings
 
@@ -99,10 +100,87 @@ Edison didn't want to work with Bell, so he decided to create his own cylinder p
 
 ## E.C. Wente - Bell Telephone Labs
 
-<img src="wente.jpg" width="50%">
+<img src="wente.jpg" width="30%">
 
 
 {{% note %}}
 E.C. Wente, of Bell Telephone Labs, published a research article (Wente, 1917) describing a uniforming sensitive instrument for the ‘absolute measurement of sound intensity,’ named ‘the condenser microphone.’ Although initially designed for long-line telephone transmission during the USA’s development of a transcontinental telephone service, its remarkable acoustic performance lent it to the recording process (Mayfield and Harrison, 1926).
 
+{{%/ note %}}
+
+---
+
+## Fritz Pfleumer - Magnetic Tape - 1928
+
+![](magnetic-tape.jpg)
+
+{{% note %}}
+
+one of the first machines that could be used with magnetic tape was developed by Fritz Pfleumer, in which paper coated with steel shavings served as the storage method. This brought in the potential for looping, splicing, and erasing of audio content for the first time in the history of recording.
+
+{{%/ note %}}
+
+---
+
+## Magnetophon - 1940s 
+
+<img src="magnetophone.jpg" width="30%">
+
+{{% note %}}
+By the 1940s, this technology was finding some use in the military due to contracts issued by the Naval Research & Development Department. While the Allies used magnetic tapes during the Second World War, Hitler’s demand for audio to be replayed for propaganda purposes meant Germany continued its research into the field. This led the German company AEG to develop a tape using paper or acetate covered with a fine layer of brown iron oxide, a method which was to go on to become the future of magnetic recording (Engel and Hammar, 2006). It wasn’t until the final months of the war that this invention was discovered, and once the war was over, the US took two Magnetophon machines back to a laboratory and performed reverse engineering to recreate their own versions (Audio Engineering Society, 2014).
+{{%/ note %}}
+
+---
+
+## Cassette Tape - Philips - 1962
+
+![](cassette-tape.jpg)
+
+{{% note %}}
+The ideas taken from these dictating machines resulted in Philips developing the cassette tape in 1962, followed closely by the compact cassette tape in 1963. The offer of licensing the technology to other companies combined with low production costs and a modest sound quality helped it become a standard format by the end of the 1960s (Nijsen, 1983). That being said, there was still an issue with the sound quality compared to vinyl due to tape hiss, but it could match larger reel-to-reel recorders in frequency response, dynamics, and distortion. To address this problem, Ray Dolby (who was working at the Ampex Corporation at the time, but went on to start the now renowned Dolby Digital) created a noise reduction system for cassette tapes. This system, known as ‘Dolby Type A’ (Dolby, 1967), allowed high fidelity tapes to become possible.
+{{%/ note %}}
+
+---
+
+# The digital years
+
+{{% note %}}
+although the digital transformation of sound was first attempted by the early telephone companies to enable more messages to be transmitted per wire, and despite experiments by laboratories in the 1930s with Pulse Code Modulation (PCM), based on earlier research (Nyquist, 1928), the technology didn’t become available until the early 1980s. 
+
+to summarize!! 
+
+In short, Edison’s phonograph stored sound waves as a soft groove on a cylinder. Western Electrical’s recorder converted sound into varying voltages of electric current, which could then be converted into a wave in a groove, or stored on a tape in which varying levels of magnetism represented the varying electrical current. Digital recording turned sound waves into pulsating electric currents that can be measured and expressed as a binary code of digits.
+{{%/ note %}}
+
+---
+
+## Pulse Code Modulation (PCM) - 1930s
+
+
+
+{{% note %}}
+* Published in 1928, the Nyquist Theorem proposed that it is possible to convert a continuous signal into one which is discrete, and then reconstruct this back into a continuous signal without any data loss.
+* three decades later, Bell Labs had the first PCM transmission system in their lab, while Japanese companies experimented with the storage of PCM values on a plastic disc, before later using a laser (another Second World War invention) to read and playback the values of sound (Iwasawa and Sato, 1977).
+{{%/ note %}}
+
+---
+
+## Compact Discs - 1980s
+
+<img src="cd.jpg" width="50%">
+
+{{% note %}}
+although PCM was a leap forward, there were still problems relating to the storage of the data. The solution arrived in the computers of the early 1980s as they could easily store this data on hard drives in binary digits. A second solution was the digital audio disc, developed in 1979 through a working partnership between the Philips and Sony organisations. It was named the ‘Compact Disc’ or CD, taking its name from the earlier compact cassettes for which both companies had worked so hard to establish as a standard format (Immink, 1998).
+{{%/ note %}}
+
+---
+
+## Sound Tools - 1989
+
+![](digidesign_soundTools.png)
+
+{{% note %}}
+The first Digital Audio Workstation, finally allowed editing with a graphical interface. Editing was done on a digital audio tape, or DAT. 
+
+Later in the 90s CDs players were common in home computers bringing digital audio to anyone. 
 {{%/ note %}}
