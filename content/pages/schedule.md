@@ -74,8 +74,27 @@ th {
 
    **Thursday 9/2**
 
-   * Audio forensics beginnings 
-   * Notable Cases of Audio Forensics
+    
+   * [Audio forensics beginnings](pages/lectures/week-2/audio-forensic-beginnings/) - [PDF](pages/lectures/week-2/audio-forensic-beginnings/forensic-audio-history.pdf)
+
+   Adobe Audition Lab:
+   * Review from Tuesday 8/31
+      * Make sure you have turned in both the cleaned up audio recording AND the spectrogram screenshot.
+      * Exporting files
+      * Loop playback 
+      * The transient of any sound is the most important to take away, make sure you don't forget it. 
+  
+   In class: Use the lasso and auto heal selection tools to remove that pesky crow in [this](https://freesound.org/people/dobroide/sounds/580486/) recording. 
+   * Select each partial with the lasso tool 
+   * then auto heal the selection using command+U
+   * use the attenuation knob if necessary
+   * again export the file and upload to d2l with a screenshot of the spectrogram.
+
+   HOMEWORK:
+   **Read** Chapter 3 History of Audio Forensics from Robert C. Maher's Principles of Forensic Audio Analysis.
+   
+   **Listen and respond** to [Twenty Thousand Hertz - Sound Forensics Podcast](https://www.20k.org/episodes/forensicaudio) which covers some recent cases where audio forensics was used as an important tool.
+
 
    </td>
   </tr>
@@ -85,8 +104,9 @@ th {
    <td>9/7, 9/9
    </td>
    <td>Forensic principles
-<p>
-Project 1: short presentation of a use of forensic audio in an investigation; explain how forensic principles were used
+
+   HOMEWORK: Read and respond to [This Man Spent Nearly A Year In Prison Over Erroneous AI-Based Evidence](https://hothardware.com/news/man-jailed-over-ai-powered-gunshot-detection)
+ 
    </td>
   </tr>
   <tr>
