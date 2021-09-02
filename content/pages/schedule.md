@@ -91,7 +91,7 @@ th {
    * again export the file and upload to d2l with a screenshot of the spectrogram.
 
    HOMEWORK:
-   **Read** Chapter 3 History of Audio Forensics from Robert C. Maher's Principles of Forensic Audio Analysis.
+   **Read** Chapter 3 History of Audio Forensics from Robert C. Maher's Principles of Forensic Audio Analysis. Write a short summary of each of the cases. 
    
    **Listen and respond** to [Twenty Thousand Hertz - Sound Forensics Podcast](https://www.20k.org/episodes/forensicaudio) which covers some recent cases where audio forensics was used as an important tool.
 
