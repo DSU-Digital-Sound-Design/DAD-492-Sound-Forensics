@@ -125,10 +125,6 @@ th {
          * Hint: you can zoom in on the frequency display to only find the range of the hum. Try to look up what the hum is in Canada. 
          * Use this [calculator](http://www.sengpielaudio.com/calculator-harmonics.htm) to find the odd harmonics of the hum.
 
- 
-
-   <!-- TODO: another short assignment to learn a feature of audition -->
-
    HOMEWORK: 
    
    Read and respond to [This Man Spent Nearly A Year In Prison Over Erroneous AI-Based Evidence](https://hothardware.com/news/man-jailed-over-ai-powered-gunshot-detection)
