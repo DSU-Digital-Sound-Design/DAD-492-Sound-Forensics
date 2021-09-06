@@ -103,10 +103,42 @@ th {
    </td>
    <td>9/7, 9/9
    </td>
-   <td>Forensic principles
+   <td>
+   
+   Forensic principles
 
-   HOMEWORK: Read and respond to [This Man Spent Nearly A Year In Prison Over Erroneous AI-Based Evidence](https://hothardware.com/news/man-jailed-over-ai-powered-gunshot-detection)
+   **Tuesday 9/7**
+
+   * [Review important cases that used audio forensics](pages/lectures/week-3/historical-cases) 
+   * [Twenty Thousand Hertz - Forensic Audio](pages/lectures/week-3/twenty-thousand-hertz)
+   * [Forensic Principles slides](pages/lectures/week-3/forensic-principles) - [PDF](pages/lectures/week-3/forensic-principles/forensic-principles.pdf)
+       
+
+   In Class work: 
+   * [Analyze, Normalize, Process](pages/lectures/week-3/lab-instructions)
+   * Remove the noise from 3 recordings with broadband constant noise. 
+   * HINT: you may need to do the noise reduction multiple times to get different bands of noise. 
+      * [Birds and bells](https://freesound.org/people/arnaud%20coutancier/sounds/436032/)
+      * [Bagpipes](https://freesound.org/people/Puniho/sounds/172687/) - clean this up as well as you can
+      * [Field recording](https://freesound.org/people/833-45/sounds/11727/) - Only remove the hum from the power lines
+         * Don't use the deHummer, see how well you can do with just the noise reduction. 
+         * Hint: you can zoom in on the frequency display to only find the range of the hum. Try to look up what the hum is in Canada. 
+         * Use this [calculator](http://www.sengpielaudio.com/calculator-harmonics.htm) to find the odd harmonics of the hum.
+
  
+
+   <!-- TODO: another short assignment to learn a feature of audition -->
+
+   HOMEWORK: 
+   
+   Read and respond to [This Man Spent Nearly A Year In Prison Over Erroneous AI-Based Evidence](https://hothardware.com/news/man-jailed-over-ai-powered-gunshot-detection)
+ 
+
+   **Thursday 9/9**
+
+   * Review erroneous AI evidence article 
+   * Bias mitigation and the forensic laboratory setup
+  
    </td>
   </tr>
   <tr>
@@ -171,6 +203,8 @@ Project 5: Part 1 – Create an audio recording with your phone with less than i
 Part 2 – Take one of your classmates’ recordings and enhance it to have a high degree of intelligibility.
 <p>
  
+   Possible enhancement technique: Kent Gibson removed a blaring tv from a recording of people talking by obtaining the actual TV broadcast and inverting the phase of the broadcast recording. 
+
    </td>
   </tr>
   <tr>
