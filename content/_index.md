@@ -8,3 +8,5 @@ This course is an introduction audio forensics, a branch in the larger field of 
 - [schedule](pages/schedule)
 - [projects](pages/projects)
 - [resources](pages/resources)
+
+edit 
