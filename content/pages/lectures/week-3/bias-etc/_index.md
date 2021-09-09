@@ -3,7 +3,7 @@ title = "Standard operating procedures and Bias"
 outputs = ["Reveal"]
 [reveal_hugo]
 theme = "solarized"
-show_notes = "separate-page"
+# show_notes = "separate-page"
 +++
 
 ## Standard operating procedures
