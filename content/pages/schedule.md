@@ -133,7 +133,14 @@ th {
    **Thursday 9/9**
 
    * Review erroneous AI evidence article 
-   * Bias mitigation and the forensic laboratory setup
+      * See this more detailed [article](https://www.chicagotribune.com/news/criminal-justice/ct-shotspotter-chicago-man-jailed-20210820-krlg7y2gt5gwxozolqvvslsni4-story.html) from Chicago Tribune
+   * [Bias mitigation](pages/lectures/week-3/bias-etc) - [PDF](pages/lectures/week-3/bias-etc/sop.pdf)
+
+
+   **In class lab: Sound Remover Tool**
+
+  Remove the cough from the interview, it is really difficult but try several options. Remove the hum from the guitar playing. Remove the rude cell phone ringing during the piano performance. This tool is really useful for removing dynamic prominent sounds. Be sure to look at the presets for help with removing different sounds within different contexts. 
+
   
    </td>
   </tr>
@@ -142,7 +149,15 @@ th {
    </td>
    <td>9/14, 9/16
    </td>
-   <td>The human auditory system
+   <td>
+   
+   **Tuesday 9/14**
+   
+   The forensic laboratory setup
+
+   **Thursday 9/16**
+
+   The human auditory system
    </td>
   </tr>
   <tr>
@@ -194,7 +209,7 @@ Project 4: Given a list of sonic events, identify them in a spectrogram of a rec
    </td>
    <td>Audio enhancement
 <p>
-Project 5: Part 1 – Create an audio recording with your phone with less than idea recording conditions. I will provide text for you to read. This recording will be randomly shared with another classmate. 
+Project 5: Part 1 – Create an audio recording with your phone with less than ideal recording conditions. I will provide text for you to read. This recording will be randomly shared with another classmate. 
 <p>
 Part 2 – Take one of your classmates’ recordings and enhance it to have a high degree of intelligibility.
 <p>
