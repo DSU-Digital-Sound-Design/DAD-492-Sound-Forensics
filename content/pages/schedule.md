@@ -153,7 +153,14 @@ th {
    
    **Tuesday 9/14**
    
-   The forensic laboratory setup
+   * [The forensic laboratory setup](pages/lectures/week-4/forensic-lab) - [PDF](pages/lectures/week-4/forensic-lab/forensic-lab-setup.pdf)
+
+   **In class lab: spot healing tool**
+
+   * Record crackle
+   * Fire crackle 
+
+   More details in D2L 
 
    **Thursday 9/16**
 
