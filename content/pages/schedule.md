@@ -155,7 +155,7 @@ th {
    
    * [The forensic laboratory setup](pages/lectures/week-4/forensic-lab) - [PDF](pages/lectures/week-4/forensic-lab/forensic-lab-setup.pdf)
 
-   **In class lab: spot healing tool**
+   **In class lab: crackle crackle**
 
    * Record crackle
    * Fire crackle 
@@ -164,7 +164,11 @@ th {
 
    **Thursday 9/16**
 
-   The human auditory system
+   [The human auditory system](pages/lectures/week-4/human-auditory-system) - [PDF](pages/lectures/week-4/human-auditory-system/human-auditory-system.pdf)
+
+   In class lab: 
+   * Find recorded examples of different type of masking including temporal masking, informational masking and non-temporal masking. Along with your recordings explain each of the phenomena. You may use the textbook (Digital Audio Forensics Fundamentals by James Zjalic) to help with your explanation of masking.  
+   
    </td>
   </tr>
   <tr>
