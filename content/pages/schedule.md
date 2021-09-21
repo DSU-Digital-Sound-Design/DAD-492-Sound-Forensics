@@ -176,9 +176,22 @@ th {
    </td>
    <td>9/21, 9/23
    </td>
-   <td>Key audio principles
-<p>
-Project 2: create recordings under forensic audio conditions, low frequency response, bad signal-to-noise ratio etc.
+   <td>
+   
+   ## Key audio principles
+
+   **Tuesday 9/21**
+   * [Key audio principles](pages/lectures/week-5/key-audio-principles) - [PDF](pages/lectures/week-5/key-audio-principles/key-audio-principles.pdf)
+
+   In class lab: use the deReverb tool to remove as much reverb from these recordings as you can. 
+
+   Homework: create a recording under typical forensic audio conditions. On Thursday you will be given a classmates recording and have to identify the non-ideal recording conditions in that recording. 
+
+   **Thursday 9/23**
+   
+   * [Sound capture and playback]()
+
+
    </td>
   </tr>
   <tr>
@@ -211,6 +224,8 @@ Project 4: Given a list of sonic events, identify them in a spectrogram of a rec
    <td>10/12, 10/14
    </td>
    <td>Audio Acoustics
+
+   Project 5 Due 10/19: Part 1 – Create an audio recording with your phone with less than ideal recording conditions. I will provide text for you to read. This recording will be randomly shared with another classmate. 
    </td>
   </tr>
   <tr>
@@ -219,11 +234,11 @@ Project 4: Given a list of sonic events, identify them in a spectrogram of a rec
    <td>10/19, 10/21
    </td>
    <td>Audio enhancement
-<p>
-Project 5: Part 1 – Create an audio recording with your phone with less than ideal recording conditions. I will provide text for you to read. This recording will be randomly shared with another classmate. 
-<p>
-Part 2 – Take one of your classmates’ recordings and enhance it to have a high degree of intelligibility.
-<p>
+   <p>
+   
+   <p>
+   Part 2 – Take one of your classmates’ recordings and enhance it to have a high degree of intelligibility.
+   <p>
  
    Possible enhancement technique: Kent Gibson removed a blaring tv from a recording of people talking by obtaining the actual TV broadcast and inverting the phase of the broadcast recording. 
 
