@@ -189,7 +189,7 @@ th {
 
    **Thursday 9/23**
    
-   * [Sound capture and playback]()
+   NO CLASS - DSU Discover Days
 
 
    </td>
@@ -199,7 +199,19 @@ th {
    </td>
    <td>9/28, 9/30
    </td>
-   <td>Audio Encoding 
+   <td>
+
+   ##  Audio Encoding 
+
+   **Tuesday 9/28**
+
+   * [Audio Encoding](pages/lectures/week-6/audio-encoding)
+
+   **Thursday 9/30**
+
+   * More file types and a lab on perceptual encoding artifacts. 
+
+  
 <p>
 Project 3: given a variety of files explain the encoding of each file and why it is important. 
 <p>
