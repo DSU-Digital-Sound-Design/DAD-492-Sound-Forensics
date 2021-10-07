@@ -209,13 +209,15 @@ th {
 
    **Thursday 9/30**
 
-   * More file types and a lab on perceptual encoding artifacts. 
+   Class canceled 
+   <!-- * Finish MP3 construction and encoding
+   * More file types and a lab on perceptual encoding artifacts.  -->
 
-  
+<!--   
 <p>
 Project 3: given a variety of files explain the encoding of each file and why it is important. 
 <p>
-Project 3 part two: practice encoding files in various formats, this will be helpful later when creating an exemplar recording to compare against. 
+Project 3 part two: practice encoding files in various formats, this will be helpful later when creating an exemplar recording to compare against.  -->
    </td>
   </tr>
   <tr>
@@ -223,11 +225,20 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    </td>
    <td>10/5, 10/7
    </td>
-   <td>Preparatory analysis and handling forensic evidence 
-<p>
-Introduction to waveform and spectral analysis 
-<p>
-Project 4: Given a list of sonic events, identify them in a spectrogram of a recording. Take a screenshot and label the events with a graphics program of your choice. 
+   <td>
+   
+   ## Preparatory analysis and handling forensic evidence 
+
+   * Enable write only permissions 
+   * Comparing hashes of copied audio files 
+   * Introduction to waveform and spectral analysis 
+
+   Project 4 Due 10/12: 
+   1. Create an audio recording with your phone with less than ideal recording conditions. Remember all the different things that can effect the intelligibility of a recording such as other people talking, broadband noise, excessive reverb, strange encodings, or clipping distortion. Include multiple examples to make your recording difficult to understand. Pick a paragraph of text to read from a poem or popular song. This recording will be randomly shared with another classmate. 
+   2. Partner up with a classmate and have them email you their recording. Use the tools we have been learning to clean up the recording and make the speech as intelligible as you can. 
+   3. Produce a transcript of the speech. 
+   
+   <!-- Project 4: Given a list of sonic events, identify them in a spectrogram of a recording. Take a screenshot and label the events with a graphics program of your choice.  -->
    </td>
   </tr>
   <tr>
@@ -235,9 +246,12 @@ Project 4: Given a list of sonic events, identify them in a spectrogram of a rec
    </td>
    <td>10/12, 10/14
    </td>
-   <td>Audio Acoustics
+   <td>
+   <!-- Audio Acoustics -->
 
-   Project 5 Due 10/19: Part 1 – Create an audio recording with your phone with less than ideal recording conditions. I will provide text for you to read. This recording will be randomly shared with another classmate. 
+   ## Technical ear training 
+
+
    </td>
   </tr>
   <tr>
