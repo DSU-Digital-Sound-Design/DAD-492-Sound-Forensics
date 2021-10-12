@@ -247,10 +247,30 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    <td>10/12, 10/14
    </td>
    <td>
-   <!-- Audio Acoustics -->
 
-   ## Technical ear training 
+   <!-- ## Technical ear training  ? -->
 
+   ## Audio Acoustics
+
+  **Tuesday 10/12**
+
+   * Using [Sonic Vizualizer](https://sonicvisualiser.org/doc/reference/4.4/en/) to diagram sounds 
+      * Panes and layers 
+      * pane - horizontally scrollable area of window
+         * waveform, spectrum, spectrogram, etc. 
+      * layers - visualizations on top of each pane
+         * time instants, time values, notes, regions, boxes, text, and images. 
+      * Display properties to change the appearance of the pane and layer.
+      * Zooming and scrolling 
+         * zoom to specific area with navigate tool and shift 
+      * Scrolling
+         * shit + mouse wheel 
+      * Tools - navigate, select, edit, draw, erase, measure     
+
+
+   **Thursday 10/14**
+
+   * Analysis of gunshot caught by ring doorbell camera 
 
    </td>
   </tr>
