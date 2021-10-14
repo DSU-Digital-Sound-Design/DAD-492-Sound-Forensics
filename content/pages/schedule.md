@@ -270,7 +270,13 @@ Project 3 part two: practice encoding files in various formats, this will be hel
 
    **Thursday 10/14**
 
-   * Analysis of gunshot caught by ring doorbell camera 
+   * [Gunshot acoustics](pages/lectures/week-8/gunshot-acoustics) - [PDF](pages/lectures/week-8/gunshot-acoustics/gunshot-acoustics.pdf)
+   * Vegas Shooting analysis 
+      * Download from [Vegas Shooting Map](http://vegasshootingmap.com/) - 10/1/2017  10:07:32 PM - 4 Thru 10 - Raw Video Route 91 Festival - Las Vegas Shooting (FRONT ROW)
+      * Add to Sonic Visualizer
+      * Add a time instants layer to set a starting point for the 5th volley that starts at 2:23.05
+      * Return to the time instant by clicking page up. On a mac it is fn + up arrow. 
+   
 
    </td>
   </tr>
@@ -279,14 +285,19 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    </td>
    <td>10/19, 10/21
    </td>
-   <td>Audio enhancement
-   <p>
+   <td>
+   
+   ## More gunshot acoustics 
+
+   * Analysis of gunshot caught by ring doorbell camera 
+   <!-- Audio enhancement -->
+   <!-- <p>
    
    <p>
    Part 2 – Take one of your classmates’ recordings and enhance it to have a high degree of intelligibility.
    <p>
  
-   Possible enhancement technique: Kent Gibson removed a blaring tv from a recording of people talking by obtaining the actual TV broadcast and inverting the phase of the broadcast recording. 
+   Possible enhancement technique: Kent Gibson removed a blaring tv from a recording of people talking by obtaining the actual TV broadcast and inverting the phase of the broadcast recording.  -->
 
    </td>
   </tr>
