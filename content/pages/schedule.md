@@ -276,6 +276,8 @@ Project 3 part two: practice encoding files in various formats, this will be hel
       * Add to Sonic Visualizer
       * Add a time instants layer to set a starting point for the 5th volley that starts at 2:23.05
       * Return to the time instant by clicking page up. On a mac it is fn + up arrow. 
+      * You can also select the portion you want to hear and click the "constrain playback to the selected region" button. 
+      * Slow down playback to hear more clearly the 12 sounds 
    
 
    </td>
