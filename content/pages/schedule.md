@@ -291,6 +291,8 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    
    ## More gunshot acoustics 
 
+   * Finish analysis of [Vegas shooting](pages/lectures/week-9/vegas-shooting-lab)
+    
    * Analysis of gunshot caught by ring doorbell camera 
    <!-- Audio enhancement -->
    <!-- <p>
