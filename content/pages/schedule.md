@@ -291,9 +291,23 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    
    ## More gunshot acoustics 
 
+   **Tuesday 10/19**
+
    * Finish analysis of [Vegas shooting](pages/lectures/week-9/vegas-shooting-lab)
-    
-   * Analysis of gunshot caught by ring doorbell camera 
+
+   **Thursday 10/21**
+
+   * Analysis of 2016 shooting of Dallas police officers
+      * Using this [video](https://www.youtube.com/watch?v=jMX9Cz_W8kw) try to answer the question of how many high powered weapon (rifle) gunshots were there and how many other gunshots were there? Remember the acoustics of a high powered rifle that should tell you which sound is which. 
+      * The recording may require some editing to remove the background noise. This is up to you whether you think it needs it or not. 
+      * In Sonic Visualizer create a layer for each type of weapon and rename it to the weapon type.
+      * Produce three charts showing the shockwave, muzzle blast, and lagtime data for each rifle gunshot. 
+      * For the non rifle gunshots just do a muzzle blast chart. 
+      * Use the same form as the last lab. This example is much more challenging because the gunfire is happening closer to buildings creating more reflections that obscure the sonic wave.
+
+   <!-- HOMEWORK: Read `Shooter Localization Using Social Media Videos` and summarize its findings. What problems does it solve? What methods does it use to solve them?  -->
+  
+   <!-- * Analysis of gunshot caught by ring doorbell camera  -->
    <!-- Audio enhancement -->
    <!-- <p>
    
@@ -310,7 +324,12 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    </td>
    <td>10/26, 10/28
    </td>
-   <td>Speech forensics – Speaker Identification (who said it?) and Speech Recognition (what did they say?)
+   <td>
+
+    <!-- * Review of Maher's gunshot acoustics chapter  -->
+
+
+   Speech forensics – Speaker Identification (who said it?) and Speech Recognition (what did they say?)
 <p>
 Project 6: Take the recording from project 5 and do a forensic speech analysis on it to figure out who said it and produce a transcript.
    </td>
