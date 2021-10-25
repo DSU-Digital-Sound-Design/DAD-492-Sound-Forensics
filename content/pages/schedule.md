@@ -326,12 +326,19 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    </td>
    <td>
 
-    <!-- * Review of Maher's gunshot acoustics chapter  -->
+   ## Speech forensics
+   
+   **Tuesday 10/26**
 
+   * [Slides](pages/lectures/week-10/speech-forensics) - [PDF](pages/lectures/week-10/speech-forensics/speech-forensics.pdf) - Speaker Identification (who said it?) and Speech Recognition (what did they say?)
 
-   Speech forensics – Speaker Identification (who said it?) and Speech Recognition (what did they say?)
-<p>
-Project 6: Take the recording from project 5 and do a forensic speech analysis on it to figure out who said it and produce a transcript.
+   **Thursday 10/28**
+
+  * Practical labs 
+    * [Praat](http://www.praat.org/)
+    * [ALIZE](https://alize.univ-avignon.fr)
+
+   <!-- Project 6: Take the recording from project 5 and do a forensic speech analysis on it to figure out who said it and produce a transcript. -->
    </td>
   </tr>
   <tr>
@@ -340,7 +347,8 @@ Project 6: Take the recording from project 5 and do a forensic speech analysis o
    <td>11/2, 11/4
    </td>
    <td>Audio authentication 
-<p>
+
+   Has the recording been edited? 
  
    </td>
   </tr>
@@ -364,6 +372,8 @@ No class on 11/11 for Veterans Day
    <td>11/16, 11/18
    </td>
    <td>Case Study 1: Gunshot Acoustics
+
+   <!-- Do the ring doorbell gunshot analysis -->
    </td>
   </tr>
   <tr>
@@ -372,6 +382,8 @@ No class on 11/11 for Veterans Day
    <td>11/23
    </td>
    <td>Case Study 2: Cockpit Voice Recorders
+
+   
 <p>
 No class on 11/25 for Thanksgiving holiday
    </td>
