@@ -330,7 +330,7 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    
    **Tuesday 10/26**
 
-   * [Slides](pages/lectures/week-10/speech-forensics) - [PDF](pages/lectures/week-10/speech-forensics/speech-forensics.pdf) - Speaker Identification (who said it?) and Speech Recognition (what did they say?)
+   * [Slides](pages/lectures/week-10/speech-forensics) - [PDF](pages/lectures/week-10/speech-forensics/speech-forensics.pdf) 
 
    **Thursday 10/28**
 
