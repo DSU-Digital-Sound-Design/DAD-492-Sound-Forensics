@@ -334,9 +334,7 @@ Project 3 part two: practice encoding files in various formats, this will be hel
 
    **Thursday 10/28**
 
-  * Practical labs 
-    * [Praat](http://www.praat.org/)
-    * [ALIZE](https://alize.univ-avignon.fr)
+   * Who's talking? Recordings of your classmates. 
 
    <!-- Project 6: Take the recording from project 5 and do a forensic speech analysis on it to figure out who said it and produce a transcript. -->
    </td>
@@ -346,9 +344,17 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    </td>
    <td>11/2, 11/4
    </td>
-   <td>Audio authentication 
+   <td>
+   
+   ## Audio authentication 
 
+   * Practical labs 
+      * Introduction to [Praat](http://www.praat.org/)
+      * [Praat lab](pages/lectures/week-10/praat-lab) 
+    
    Has the recording been edited? 
+
+   Automatic speaker recognition? 
  
    </td>
   </tr>
