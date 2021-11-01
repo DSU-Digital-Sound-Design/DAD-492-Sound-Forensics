@@ -346,11 +346,12 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    </td>
    <td>
    
-   ## Audio authentication 
+   ## Speech forensics 
 
+   * [Acoustic-phonetic approach](pages/lectures/week-11/acoustic-phonetic-approach) 
    * Practical labs 
       * Introduction to [Praat](http://www.praat.org/)
-      * [Praat lab](pages/lectures/week-10/praat-lab) 
+      * [Praat lab](pages/lectures/week-11/praat-lab-what-can-we-see) 
     
    Has the recording been edited? 
 
