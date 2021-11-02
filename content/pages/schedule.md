@@ -348,15 +348,13 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    
    ## Speech forensics 
 
-   * [Acoustic-phonetic approach](pages/lectures/week-11/acoustic-phonetic-approach) 
+   * [Acoustic-phonetic approach](pages/lectures/week-11/acoustic-phonetic-approach) - [PDF](pages/lectures/week-11/acoustic-phonetic-approach/acoustic-phonetic.pdf)
+   * [Interactive vocal tract](https://dood.al/pinktrombone/) 
    * Practical labs 
       * Introduction to [Praat](http://www.praat.org/)
       * [Praat lab](pages/lectures/week-11/praat-lab-what-can-we-see) 
     
-   Has the recording been edited? 
 
-   Automatic speaker recognition? 
- 
    </td>
   </tr>
   <tr>
@@ -364,13 +362,21 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    </td>
    <td>11/9
    </td>
-   <td>Forensic reporting
-<p>
-An introduction to the type of report you’ll need to produce for the final project.
-<p>
-Project 7: Audio Authentication – Identify the edits in an audio recording via waveform and spectrogram views. Also, examine the metadata to ensure no changes have been made.
-<p>
-No class on 11/11 for Veterans Day
+   <td>
+   
+   Has the recording been edited? 
+
+   Automatic speaker recognition? 
+ 
+   <!-- Forensic reporting
+   <p>
+   An introduction to the type of report you’ll need to produce for the final project.
+   <p>
+   Project 7: Audio Authentication – Identify the edits in an audio recording via waveform and spectrogram views. Also, examine the metadata to ensure no changes have been made.
+   <p>
+   No class on 11/11 for Veterans Day -->
+
+
    </td>
   </tr>
   <tr>

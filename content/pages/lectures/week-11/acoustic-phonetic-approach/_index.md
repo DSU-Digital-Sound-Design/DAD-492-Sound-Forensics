@@ -74,3 +74,38 @@ Once they have made their measurements, some practitioners make tables or plots 
 {{% note %}}
 We can at least see that the signal on the right has a higher frequency than the signal on the left 
 
+---
+
+## Source-filter model 
+
+![](source-filter.jpg)
+
+{{% note %}}
+Here's a basic model for how our vocal tract works.
+
+---
+
+![](functions-of-source.png)
+
+{{% note %}}
+The source is responsible for harmonic frequencies, the filter is responsible for formant frequencies.
+
+
+---
+
+![](harmonics.png)
+
+
+
+---
+
+![](formants.png)
+
+{{% note %}}
+Here we can see the first three formant frequencies. 
+
+---
+
+## Interactive vocal tract 
+
+[Here](https://dood.al/pinktrombone/)
