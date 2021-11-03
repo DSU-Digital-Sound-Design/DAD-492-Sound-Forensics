@@ -348,12 +348,18 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    
    ## Speech forensics 
 
+   **Tuesday 11/2**
+
    * [Acoustic-phonetic approach](pages/lectures/week-11/acoustic-phonetic-approach) - [PDF](pages/lectures/week-11/acoustic-phonetic-approach/acoustic-phonetic.pdf)
    * [Interactive vocal tract](https://dood.al/pinktrombone/) 
    * Practical labs 
       * Introduction to [Praat](http://www.praat.org/)
       * [Praat lab](pages/lectures/week-11/praat-lab-what-can-we-see) 
     
+   **Thursday 11/4**
+
+   * [Formants](pages/lectures/week-11/vowel-consonant-formants)
+   * [Formants Lab](pages/lectures/week-11/vowel-consonant-formants-lab)
 
    </td>
   </tr>
