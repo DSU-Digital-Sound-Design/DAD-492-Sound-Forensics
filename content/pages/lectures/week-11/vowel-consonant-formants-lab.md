@@ -24,7 +24,7 @@ We'll now create a textgrid. Go back to the objects window, click annotate then 
 | ---- | ----- | ----- | ----- | ---- | ------ | ---- | ----- |
 | oo   | uu    | au    | oi    | ai   | ait    | er   | xx    |
 
-Go back to the objects window and click on "Analyze Spectrum" then "to Formant (Burg)". Save it as "MW_vowels". Add the same settings that you used in your format analysis from earlier and click ok. 
+It is important that you use these exact codes so that your plot comes out correct later. Go back to the objects window and click on "Analyze Spectrum" then "to Formant (Burg)". Save it as "MW_vowels". Add the same settings that you used in your format analysis from earlier and click ok. 
 
 Create a new praat script from the windows menu Praat -> "New Praat Script" 
 
