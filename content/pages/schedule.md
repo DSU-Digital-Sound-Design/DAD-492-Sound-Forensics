@@ -370,17 +370,18 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    </td>
    <td>
    
-   Has the recording been edited? 
+   ## More speech forensics
 
-   Automatic speaker recognition? 
- 
-   <!-- Forensic reporting
-   <p>
-   An introduction to the type of report you’ll need to produce for the final project.
-   <p>
-   Project 7: Audio Authentication – Identify the edits in an audio recording via waveform and spectrogram views. Also, examine the metadata to ensure no changes have been made.
-   <p>
-   No class on 11/11 for Veterans Day -->
+   **Tuesday 11/9**
+
+   * Finish the chart from Thursday. 
+   * Compare two speakers and determine if they are the same speaker by comparing their vowel charts. Instructions are in D2L. 
+
+  
+   <!-- * [Consonants](pages/lectures/week-12/consonants)
+   * [Consonants Lab](pages/lectures/week-12/consonants-lab) -->
+
+   
 
 
    </td>
@@ -390,7 +391,30 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    </td>
    <td>11/16, 11/18
    </td>
-   <td>Case Study 1: Gunshot Acoustics
+   <td>
+
+
+   ## More speech forensics
+
+   * [Visible Vowels tutorial](https://fryske-akademy.nl/fa-apps/tutorial/)
+   * Do a new comparison of two speakers but use the visible vowels tool to compare the vowel charts. 
+
+
+   <!-- Voice onset time? 
+
+   Has the recording been edited? 
+
+   Automatic speaker recognition? 
+  -->
+   
+      
+   <!-- Forensic reporting
+   <p>
+   An introduction to the type of report you’ll need to produce for the final project.
+   <p>
+   Project 7: Audio Authentication – Identify the edits in an audio recording via waveform and spectrogram views. Also, examine the metadata to ensure no changes have been made.
+   <p>
+   No class on 11/11 for Veterans Day -->
 
    <!-- Do the ring doorbell gunshot analysis -->
    </td>

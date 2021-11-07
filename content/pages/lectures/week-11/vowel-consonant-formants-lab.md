@@ -18,7 +18,7 @@ We'll now create a textgrid. Go back to the objects window, click annotate then 
 
 | heed | hid | hayed | head | had | hod | hawed | hud | hoes |
 | ---- | --- | ----- | ---- | --- | --- | ----- | --- | ---- |
-| ii   | ih  | ei    | ah   | ae  | ah  | aw    | uh  | oh   |
+| ii   | ih  | ei    | eh   | ae  | ah  | aw    | uh  | oh   |
 
 | hood | who'd | how'd | hoyed | hide | height | herd | ahead |
 | ---- | ----- | ----- | ----- | ---- | ------ | ---- | ----- |
