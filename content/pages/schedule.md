@@ -396,9 +396,13 @@ Project 3 part two: practice encoding files in various formats, this will be hel
 
    ## More speech forensics
 
-   * [Visible Vowels tutorial](https://fryske-akademy.nl/fa-apps/tutorial/)
-   * Do a new comparison of two speakers but use the visible vowels tool to compare the vowel charts. 
+   **Tuesday 11/16**
 
+   * Complete the [Visible Vowels tutorial](https://fryske-akademy.nl/fa-apps/tutorial/)
+
+   **Thursday 11/18**
+
+   * Adding new data to visible vowels 
 
    <!-- Voice onset time? 
 
