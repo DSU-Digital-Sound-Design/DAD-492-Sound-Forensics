@@ -116,7 +116,7 @@ writeFileLine: "'outputPath$'", "file,time,word,phoneme,duration,F1,F2,F3"
 There is a possibility that some of your labels will missing. Add an if statement so that your code only runs if the label is not empty. 
 
 ```python
-if label$ <> ""
+if thisPhoneme$ <> ""
 ## Add code from tutorial here, lines 47-71
 endif
 ```

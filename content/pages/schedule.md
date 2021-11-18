@@ -404,6 +404,7 @@ Project 3 part two: practice encoding files in various formats, this will be hel
 
    * Adding new data to visible vowels
    * This time [use this chart](https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio) to listen for the correct vowels then enter them into Praat. This will provide for a more more accurate vowel chart.
+   * Or use this [text to IPA](https://tophonetics.com/) translator. 
    * Tutorial - [Extracting formants in Praat](https://joeystanley.com/downloads/191002-formant_extraction)
       * Complete this tutorial to learn about Praat scripting and how to format your data to be used for different purposes. This is important because Visible Vowels is looking for a very specific format for its data. 
       * You may want to write you code in an IDE to make it easier to read. My IDE of choice is [Visual Studio Code](https://code.visualstudio.com/). If you save the code in your IDE you can then reopen it from disk in Praat by clicking File > Reopen from disk or shift+command+O. You can run the code with command+R. 
