@@ -9,12 +9,11 @@ select TextGrid 'thisTextGrid$'
 numberOfPhonemes = Get number of intervals: 1  
 appendInfoLine: "There are ", numberOfPhonemes, " intervals."
 
-# Create the pitch object
+# Create the Formant Object
 select Sound 'thisSound$'
 To Pitch: 0.001, 75, 300
 Rename: "pitch"
 
-# Create the Formant Object
 select Sound 'thisSound$'
 To Formant (burg)... 0 5 5000 0.025 50
 Rename: "formant"
@@ -32,9 +31,9 @@ for thisInterval from 1 to numberOfPhonemes
     select TextGrid 'thisTextGrid$'
     thisPhoneme$ = Get label of interval: 1, thisInterval
     #appendInfoLine: thisPhoneme$
-    label$ = Get label of interval: 1, thisInterval
+    # label$ = Get label of interval: 1, thisInterval
 
-    if label$ <> ""
+    if thisPhoneme$ <> ""
         # Find the midpoint.
         thisPhonemeStartTime = Get start point: 1, thisInterval
         thisPhonemeEndTime   = Get end point:   1, thisInterval
