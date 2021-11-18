@@ -403,7 +403,12 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    **Thursday 11/18**
 
    * Adding new data to visible vowels
+   * This time [use this chart](https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio) to listen for the correct vowels then enter them into Praat. This will provide for a more more accurate vowel chart.
    * [Extracting formants in Praat](https://joeystanley.com/blog/a-tutorial-on-extracting-formants-in-praat)
+   * After you finish with this tutorial add the columns that are needed for visible vowels. See the formatting [here](https://www.visiblevowels.org/#help). 
+   * Open up your csv file in a Google Sheets and save it as xlsx. 
+   * Upload your data to [visible vowels](https://www.visiblevowels.org) and redo the tutorial. 
+
    <!-- * Audio authentication
       * Has the recording been edited? 
       * [Radio New Zealand program on the use of the ENF in forensic cases](https://www.rnz.co.nz/national/programmes/thiswayup/audio/2545249/audio-hum) - dating a recording by measuring electrical usage over time.  -->
