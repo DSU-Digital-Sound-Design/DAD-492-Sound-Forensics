@@ -9,11 +9,12 @@ select TextGrid 'thisTextGrid$'
 numberOfPhonemes = Get number of intervals: 1  
 appendInfoLine: "There are ", numberOfPhonemes, " intervals."
 
-# Create the Formant Object
+# Create the pitch object
 select Sound 'thisSound$'
 To Pitch: 0.001, 75, 300
 Rename: "pitch"
 
+# Create the Formant Object
 select Sound 'thisSound$'
 To Formant (burg)... 0 5 5000 0.025 50
 Rename: "formant"
