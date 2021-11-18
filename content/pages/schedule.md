@@ -402,7 +402,11 @@ Project 3 part two: practice encoding files in various formats, this will be hel
 
    **Thursday 11/18**
 
-   * Adding new data to visible vowels 
+   * Adding new data to visible vowels
+   * [Extracting formants in Praat](https://joeystanley.com/blog/a-tutorial-on-extracting-formants-in-praat)
+   <!-- * Audio authentication
+      * Has the recording been edited? 
+      * [Radio New Zealand program on the use of the ENF in forensic cases](https://www.rnz.co.nz/national/programmes/thiswayup/audio/2545249/audio-hum) - dating a recording by measuring electrical usage over time.  -->
 
    <!-- Voice onset time? 
 
@@ -428,11 +432,19 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    </td>
    <td>11/23
    </td>
-   <td>Case Study 2: Cockpit Voice Recorders
-
+   <td>
    
-<p>
-No class on 11/25 for Thanksgiving holiday
+   ## More speech forensics
+
+   **Tuesday 11/23**
+
+   * Case Study 2: Cockpit Voice Recorders
+   * Forensic reporting 
+   
+   **Thursday 11/25**
+
+   No class for Thanksgiving holiday
+
    </td>
   </tr>
   <tr>
@@ -440,9 +452,12 @@ No class on 11/25 for Thanksgiving holiday
    </td>
    <td>11/30, 12/2
    </td>
-   <td>Final project – in small groups produce a forensic report given an audio recording. 
-<p>
-In class work on final project. Give a presentation during the final exam time. 
+   <td>
+   
+   Final project – produce a forensic report given an audio recording. Speaker comparison or speaker profiling. 
+
+   In class work on final project. Give a presentation during the final exam time. 
+
    </td>
   </tr>
   <tr>
