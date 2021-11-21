@@ -447,8 +447,7 @@ Project 3 part two: practice encoding files in various formats, this will be hel
 
    **Tuesday 11/23**
 
-   * Case Study 2: Cockpit Voice Recorders
-   * Forensic reporting 
+   * Finish Visible Vowels work from Thursday  
    
    **Thursday 11/25**
 
