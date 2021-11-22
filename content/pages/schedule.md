@@ -448,6 +448,7 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    **Tuesday 11/23**
 
    * Finish Visible Vowels work from Thursday  
+   * If done try to figure out how to load [this corpus](https://speechbox.linguistics.northwestern.edu/ALLSSTARcentral/#!/recordings) into Visible Vowels. Look for the files that contain spontaneous speech and text grids. 
    
    **Thursday 11/25**
 
@@ -477,7 +478,10 @@ Project 3 part two: practice encoding files in various formats, this will be hel
 
    **Tuesday 12/7**
 
-   Final work on project 
+   * Final work on project 
+   * Student evaluations 
+
+
 
    **Thursday 12/9**
 
