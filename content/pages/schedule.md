@@ -474,6 +474,18 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    <td>12/7
    </td>
    <td>
+
+   **Tuesday 12/7**
+
+   Final work on project 
+
+   **Thursday 12/9**
+
+   Final exam 1:00pm-3:00pm
+
+   Turn in your papers and data. Anyone who needs help finishing can get that during this time. 
+
+
    </td>
   </tr>
 </table>
