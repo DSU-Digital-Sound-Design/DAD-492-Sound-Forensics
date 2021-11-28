@@ -472,10 +472,9 @@ Project 3 part two: practice encoding files in various formats, this will be hel
 
    * Make sure you can load the corpus into Visible Vowels.
    * Create a larger corpus using more speakers.
+   * Compare an unknown speaker to the corpus.
   
    Final project – produce a forensic report given an audio recording. Speaker comparison or speaker profiling. 
-
-   In class work on final project.
 
    </td>
   </tr>
