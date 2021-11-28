@@ -1,5 +1,5 @@
 ---
-title: "Load the corpus of visible vowels"
+title: "Load the corpus into Visible Vowels"
 ---
 
 ## Setup 
@@ -64,3 +64,42 @@ gender$ = Get value... getRow gender
 ```
 
 Print this values to the console to see if you did it correctly. Now try to select other columns such as ethnicity. 
+
+## Iterate over all files in the folder 
+
+Create another script to test iterating over files in a folder, call it `iterate-files.praat`.  We'll use a function, `Create Strings as file list` to get a list of files in our folder. This creates a list in Praat of every file in the folder that is a .wav file. Look in your Praat Objects window to see the list.
+
+```code
+directory_name$ = "/Users/tatecarson/Downloads/ALL_ENG_ENG_ST1" 
+
+Create Strings as file list... list 'directory_name$'/*.wav
+```
+
+We then needs to get the number of files using `Get number of strings`. We'll use this number in our for loop. 
+
+Now we'll loop through those files using a for loop. In the loop we'll select the Strings list, get the current file, and store it in a variable. We'll use the `Get string` function to get the name of the file. Write that to the console.
+
+```code  
+for ifile to num
+    select Strings list
+    fileName$ = Get string... ifile
+    appendInfoLine: fileName$
+endfor
+```
+
+Now lets read the file into Praat using `Read from file`. Add this line to your loop: 
+
+```
+Read from file... 'directory_name$'/'fileName$'
+```
+
+Look at the files that are all now loaded into the Object window. Now open the TextGrids in a similar way, adding this code to your loop. Here we take the name of the sound and use it to get its corresponding TextGrid. 
+
+```code
+soundID$ = selected$("Sound")
+Read from file... 'directory_name$'/'soundID$'.TextGrid	
+```
+
+Return to your `arpabet-to-ipa.praat` file make a duplicate of it and name it `add-metadata.praat`. Add the code that iterates over all the files in the folder. You should be able to combine all of what we've learned to output a CSV file that contains an analysis of all the files in the folder and is also includes each participants corresponding metadata. 
+
+Load this CSV into Visible Vowels and experiment with the results. 

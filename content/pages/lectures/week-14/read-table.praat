@@ -13,9 +13,9 @@ getRow = Search column... subjectLabCode ALL_049_F_ENG
 appendInfoLine: getRow
 
 # # return the value of that row 
-# gender$ = Get value... getRow gender
-# ethnicity$ = Get value... getRow ethnicity
+gender$ = Get value... getRow gender
+ethnicity$ = Get value... getRow ethnicity
 
-# appendInfoLine: gender$
-# appendInfoLine: ethnicity$
+appendInfoLine: gender$
+appendInfoLine: ethnicity$
 

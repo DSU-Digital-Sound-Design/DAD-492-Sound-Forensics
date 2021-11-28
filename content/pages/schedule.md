@@ -467,6 +467,12 @@ Project 3 part two: practice encoding files in various formats, this will be hel
 
    * [Load corpus in to Visible Vowels](pages/lectures/week-15/load-corpus-visible-vowels)
 
+
+   **Thursday 12/2**
+
+   * Make sure you can load the corpus into Visible Vowels.
+   * Create a larger corpus using more speakers.
+  
    Final project – produce a forensic report given an audio recording. Speaker comparison or speaker profiling. 
 
    In class work on final project.
