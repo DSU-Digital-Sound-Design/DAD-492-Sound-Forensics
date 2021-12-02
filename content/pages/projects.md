@@ -14,7 +14,7 @@ Here are the unknown speakers. Pick the one that corresponds to your last name. 
 
 1. A - G - [speaker 1](pages/project-audio/unknown%20speaker-001.mp3)
 2. H - O - [speaker 2](pages/project-audio/unknown%20speaker-002.mp3)
-3. O - Z - [speaker 3](pages/project-audio/unknown%20speaker-003.mp3)
+3. P - Z - [speaker 3](pages/project-audio/unknown%20speaker-003.mp3)
 
 
 The previous tutorials have taught you how to load a corpus into Visible Vowels and analyze the data. For the final project you will load a corpus of audio containing all of the available ALLSTAR recordings: read speech HT1 and HT2; spontaneous speech ST1 and ST2.  
