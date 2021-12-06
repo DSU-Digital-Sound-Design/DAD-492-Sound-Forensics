@@ -484,7 +484,7 @@ Project 3 part two: practice encoding files in various formats, this will be hel
    **Tuesday 12/7**
 
    * Final work on project 
-   * Student evaluations 
+   * **Please fill out the course evaluations** [here](https://sdbor.campuslabs.com/eval-home/direct/829992). 
 
 
 

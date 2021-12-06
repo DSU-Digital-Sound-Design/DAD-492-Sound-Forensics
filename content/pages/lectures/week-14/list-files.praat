@@ -41,8 +41,12 @@ for ifile to num
     To Formant (burg)... 0 5 5000 0.025 50
     Rename: "formant"
     
+   
+
     # get the speaker name from the file name
     speaker$ = left$(fileName$, 13)
+
+    appendInfoLine: speaker$
 
     # select the metadata row for the speaker
     select Table 'table$'
